@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.remark-slide-content.slide-front-page {
+  background-color: #000;
+  color: #fff;;
+}
+
+.remark-slide-content.slide-front-page h1 {
+    font-size: 80px !important;
+}
+
+.remark-slide-content.slide-front-page img {
+    width: 300px;
+    position: absolute;
+    right: 30px;
+    top: 230px;
+}

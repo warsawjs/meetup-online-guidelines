@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.tag-cloud.change-size li:nth-of-type(5n + 1) {
+    font-size: larger;
+}
+
+.tag-cloud.change-size li:nth-of-type(5n + 2) {
+    font-size: large;
+}
+
+.tag-cloud.change-size li:nth-of-type(5n + 3) {
+    font-size: medium;
+}
+
+.tag-cloud.change-size li:nth-of-type(5n + 4) {
+    font-size: small;
+}
+
+.tag-cloud.change-size li:nth-of-type(5n + 5) {
+    font-size: smaller;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.tag-cloud.change-color li:nth-of-type(5n + 1) {
+    color: #9b59b6;
+}
+
+.tag-cloud.change-color li:nth-of-type(5n + 2) {
+    color: #e74c3c;
+}
+
+.tag-cloud.change-color li:nth-of-type(5n + 3) {
+    color: #27ae60;
+}
+
+.tag-cloud.change-color li:nth-of-type(5n + 4) {
+    color: #3498db;
+}
+
+.tag-cloud.change-color li:nth-of-type(5n + 5) {
+    color: #e67e22;
+}

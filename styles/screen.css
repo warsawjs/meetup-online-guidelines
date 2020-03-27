@@ -1,0 +1,181 @@
+@charset "utf-8";
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    border-bottom: 1px solid #ccc;
+    font-size: 45px !important;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+    color: #808080;
+}
+
+a {
+    color: #2380e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    line-height: 1.6em;
+}
+
+iframe {
+    border: 0;
+}
+
+code {
+    /* From gist.github.com */
+    /* background: #f6f8fa; */
+    /* color: #24292e; */
+
+    background: #616161;
+    color: #fff;
+    padding: 2px 15px;
+    margin: 3px 0;
+    display: inline-block;
+}
+
+em, mark, samp, var, del {
+    display: inline-block;
+    padding: 0 15px;
+    color: #fff;
+    font-style: normal;
+    font-weight: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+
+em {
+    background: #2380e6;
+}
+
+em a {
+    color: #fff;
+}
+
+mark {
+    background: #f0db4f; /* JS Yellow */
+    color: #242424;
+}
+
+del {
+    background: #f7302f; /* WarsawJS Red */
+}
+
+samp {
+    background: #918bbe;
+}
+
+var {
+    background: #12aa12;
+}
+
+ins {
+    color: gray;
+    text-decoration: none;
+}
+
+ins::selection {
+    background: transparent;
+    color: #fff;
+}
+
+kbd {
+    /* Skopiowane z GitHub.com */
+    display: inline-block;
+    padding: 3px 5px;
+    color: #444d56;
+    vertical-align: middle;
+    background-color: #fafbfc;
+    border: solid 1px #c6cbd1;
+    border-bottom-color: #959da5;
+    border-radius: 5px;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content {
+    --font-size: 26px;
+    margin-top: 0;
+    font-size: var(--font-size);
+}
+
+.remark-slide-content .remark-slide-number {
+    font-size: var(--font-size) !important;
+    font-weight: normal !important;
+}
+
+.slim {
+    font-weight: 100;
+}
+
+.bold,
+.bold * {
+    font-weight: bold !important;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.middle-images img {
+    vertical-align: middle;
+}
+
+.line-height-2x li {
+    line-height: 2em;
+}
