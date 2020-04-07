@@ -1,4 +1,4 @@
-# warsawjs-meetup-online-guidelines
+# WarsawJS Meetup Online: Guidelines
 
 <img
     src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
@@ -7,7 +7,7 @@
 
 ## Preview
 
-<https://warsawjs.github.io/meetup-online-guidelines/#1>
+<https://warsawjs.github.io/meetup-online-guidelines/>
 
 ## License
 
