@@ -1,10 +1,10 @@
-# warsawjs-online-support-slides
+# warsawjs-meetup-online-guidelines
 
-:clipboard: Slides for TODO
+![](https://warsawjs.com/static/images/logos/logo-warsawjs-with-dark-text.svg)
 
 ## Preview
 
-<https://piecioshka.github.io/warsawjs-online-support-slides>
+<https://piecioshka.github.io/warsawjs-meetup-online-guidelines>
 
 ## License
 

@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "warsawjs-online-support-slides",
+    "name": "warsawjs-meetup-online-guidelines",
     "description": "",
     "version": "0.0.0",
     "license": "MIT",
@@ -14,6 +14,6 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/warsawjs-online-support-slides.git"
+        "url": "git@github.com:piecioshka/warsawjs-meetup-online-guidelines.git"
     }
 }
