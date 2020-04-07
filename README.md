@@ -7,8 +7,8 @@
 
 ## Preview
 
-<https://piecioshka.github.io/warsawjs-meetup-online-guidelines/>
+<https://warsawjs.github.io/meetup-online-guidelines/#1>
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2020
+[The MIT License](https://en.wikipedia.org/wiki/MIT_License) @ 2020

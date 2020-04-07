@@ -3,12 +3,11 @@ class: middle, slide-front-page, no-display-my-logo
 <div class="talk-card">
   <img class="logo" src="images/warsawjs/logo-warsawjs-black-text.svg">
   <div class="details">
-    <img class="speaker-avatar" src="images/avatars/piotr-kowalski.jpg">
-    <h2 class="speaker-name">Piotr Kowalski</h2>
-    <h1 class="talk-title">Jak się przygotować do WarsawJS Online?</h1>
+    <h2 class="speaker-name">WarsawJS Meetup</h2>
+    <h1 class="talk-title">Jak się przygotować do wydarzenia Online?</h1>
     <p class="talk-perform">2020-03-27</p>
     <p class="speaker-contact">
-      <a href="https://www.linkedin.com/in/piecioshka">linkedin.com/in/piecioshka</a>
+      <a href="https://www.warsawjs.com">warsawjs.com</a>
     </p>
   </div>
 </div>
