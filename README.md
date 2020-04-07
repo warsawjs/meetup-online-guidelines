@@ -1,9 +1,9 @@
 # warsawjs-meetup-online-guidelines
 
 <img
-    src="https://warsawjs.com/static/images/logos/logo-warsawjs-with-dark-text.svg"
-    style="width: 400px"
->
+    src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
+    width="300"
+/>
 
 ## Preview
 
