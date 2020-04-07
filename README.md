@@ -1,10 +1,13 @@
 # warsawjs-meetup-online-guidelines
 
-![](https://warsawjs.com/static/images/logos/logo-warsawjs-with-dark-text.svg)
+<img
+    src="https://warsawjs.com/static/images/logos/logo-warsawjs-with-dark-text.svg"
+    style="width: 400px"
+>
 
 ## Preview
 
-<https://piecioshka.github.io/warsawjs-meetup-online-guidelines>
+<https://piecioshka.github.io/warsawjs-meetup-online-guidelines/>
 
 ## License
 
