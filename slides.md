@@ -3,11 +3,11 @@ class: middle, slide-front-page, no-display-my-logo
 <div class="talk-card">
   <img class="logo" src="images/warsawjs/logo-warsawjs-black-text.svg">
   <div class="details">
-    <h2 class="speaker-name">WarsawJS Meetup</h2>
-    <h1 class="talk-title">Jak się przygotować do wydarzenia Online?</h1>
-    <p class="talk-perform">2020-03-27</p>
+    <h2 class="speaker-name">WarsawJS Meetup <sup class="online">Online</sup></h2>
+    <h1 class="talk-title">Jak się przygotować do wydarzenia?</h1>
+    <p class="talk-perform">2020-04-07</p>
     <p class="speaker-contact">
-      <a href="https://www.warsawjs.com">warsawjs.com</a>
+      <a href="https://www.warsawjs.com/live">warsawjs.com/live</a>
     </p>
   </div>
 </div>

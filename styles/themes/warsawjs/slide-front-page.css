@@ -58,3 +58,8 @@ body {
     padding: 0;
     margin: 0;
 }
+
+.online {
+    color: #f7302f;
+    font-size: 30px;
+}
